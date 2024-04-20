@@ -112,7 +112,7 @@ p{
   width: 170px;
 }
 .blue{
-  position: fixed;
+  position: absolute;
   top:50%;
   left:25%;
   transform: translate(-90%, -80%);
@@ -122,7 +122,7 @@ p{
   border-left:50px solid transparent;
 }
 .red{
-  position: fixed;
+  position: absolute;
   top:50%;
   left:25%;
   transform: translate(-90%, -69%);
@@ -132,7 +132,7 @@ p{
   border-left:50px solid transparent;
 }
 .white{
-    position: fixed;
+    position: absolute;
     top:50%;
     left:18.5%;
     transform: translate(-100%, -73%);
